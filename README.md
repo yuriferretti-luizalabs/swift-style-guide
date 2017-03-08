@@ -127,7 +127,7 @@ class TestDatabase : Database {
 }
 ```
 
-* Long lines should be wrapped at around 70 characters. A hard limit is intentionally not specified.
+* Long lines should be wrapped at around 120 characters. A hard limit is intentionally not specified.
 
 * Avoid trailing whitespaces at the ends of lines.
 
